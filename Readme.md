@@ -1,2 +1,3 @@
 deployed link
- https://gaipov5791.github.io/js-loan-calculator/index.html
+ 
+ https://github.com/Gaipov5791/loan-calculator-js
